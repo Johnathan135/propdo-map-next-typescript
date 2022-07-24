@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "SynthWave '84",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredDarkColorTheme": "SynthWave '84",
+  "workbench.preferredHighContrastColorTheme": "SynthWave '84",
+  "workbench.preferredHighContrastLightColorTheme": "SynthWave '84",
+  "workbench.preferredLightColorTheme": "SynthWave '84",
+  "material-icon-theme.activeIconPack": "react",
+  "synthwave84.brightness": 1,
+  "synthwave84.disableGlow": false
+}

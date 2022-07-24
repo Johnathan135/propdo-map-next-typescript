@@ -116,7 +116,7 @@ const Realestate = () => {
             <div key={index}>
               <Link
                 href={{
-                  pathname: "/Mappy/Realestate/Card/[id]",
+                  pathname: "/Mappy/Realestate/[id]",
                   query: { id: record.id },
                 }}
               >
